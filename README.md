@@ -4,6 +4,7 @@
 
 ## How to use
 - Here are the commands it supports:
+
 | Command | What it does |
 |---------|----------------|
 | 100     | halt |
