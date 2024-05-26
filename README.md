@@ -1,6 +1,5 @@
 # BasicInterpreter
-- Yep, another challenge on the book "Programming Challenges" by Steven S Skiena and Miguel A Revilla, it's a sort of interpreter that does very basic things: move stuff in memory and registers, not the actuall ones in the cpu, but just normal ram pretending to be registers, and some arithmetic on the registers.
-- Just realised there's a repository that contains some info on this book's problems, https://github.com/rdzhao/Programming-Challenges, it doesen't directly give the solutions, just some hints.
+Another challenge on the book "Programming Challenges" by Steven S Skiena and Miguel A Revilla, it's a sort of interpreter that does very basic things: move stuff in memory and registers, not the actuall ones in the cpu, but just normal ram pretending to be registers, and some arithmetic on the registers.
 
 ## How to use
 - Here are the commands it supports:
